@@ -2,9 +2,7 @@
   "name": "cms-frontend",
   "version": "1.0.0",
   "private": true,
-  "dependencies": {
-    "@emotion/react": "^11.11.1",
-    "@emotion/styled": "^11.11.0",
+  "dependencies": { 
     "@mui/icons-material": "^5.14.3",
     "@mui/material": "^5.14.3",
     "axios": "^1.4.0",
