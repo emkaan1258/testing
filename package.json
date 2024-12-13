@@ -4,8 +4,7 @@
   "private": true,
   "dependencies": {
     "@mui/icons-material": "^5.14.3",
-    "@mui/material": "^5.14.3",
-    "@emotion/styled": "^11.11.0",  
+    "@mui/material": "^5.14.3", 
     "cra-template": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
