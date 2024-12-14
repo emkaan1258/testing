@@ -86,7 +86,8 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Router>
+      hello
+      {/* <Router>
         <Routes>
           <Route path="/login" element={<Login />} />
           <Route path="/" element={<Layout />}>
@@ -98,7 +99,7 @@ function App() {
             <Route path="pages/:pageId/sections/:sectionId" element={<PrivateRoute><SectionEditor /></PrivateRoute>} />
           </Route>
         </Routes>
-      </Router>
+      </Router> */}
     </ThemeProvider>
   );
 }
